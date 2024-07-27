@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nequrion
+- 👀 I’m interested in story-driven adventure games and creating modern, minimalistic web designs.
+- 🌱 I’m currently learning Python and working on automation tasks.
+- 💞️ I’m looking to collaborate on software development projects, especially those involving JavaScript, Node.js, HTML, CSS, Python, and C++.
+- 📫 How to reach me: nequrion@gmail.com
+- 😄 Pronouns: he/him
